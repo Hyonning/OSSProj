@@ -1,7 +1,4 @@
+git&github practice
 a
 b
 c
-d
-e
-f
-g
